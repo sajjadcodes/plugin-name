@@ -4,7 +4,7 @@ This is the basic structure of the plugin. Aims to provide the basic starter fil
 
 ## Installation
 
-Watch [Watch](https://youtube_url) to to setup into local development enviroment. Or
+ [Watch](https://youtube_url) to setup into local development enviroment. Or
 You can just download and put into your plugin folder and replace the folder and main File name with your Plugin name
 
 Install composer
