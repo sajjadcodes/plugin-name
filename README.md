@@ -29,4 +29,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-The WordPress Plugin Boilerplate is licensed under the GPL v2 or later.
+The WordPress Plugin Boilerplate is licensed under the GPL v3[here](/plugin-name/license.txt) or later.
