@@ -15,13 +15,10 @@ composer psr4
 ## Usage
 
 ```PHP
-import foobar
 
-# use file'
-
+# use file
 
 # return file name in the array.
-
 
 
 ```
