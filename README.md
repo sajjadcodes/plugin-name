@@ -33,4 +33,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## ⚖️License
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl-150x33.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
 The WordPress Plugin Boilerplate is licensed under the [GPL v3](license.txt) or later.
