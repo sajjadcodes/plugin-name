@@ -28,8 +28,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-##Contributors
-This project exists thanks to all the people who contribute.  
-<a href="https://github.com/sajjadcodes/plugin-name/graphs/contributors"><img src="https://opencollective.com/WordPress-Plugin-Boilerplate-Powered/contributors.svg?width=890"></a>
 ## ⚖️License
 The WordPress Plugin Boilerplate is licensed under the [GPL v3](license.txt) or later.
