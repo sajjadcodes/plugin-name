@@ -1,5 +1,8 @@
 # Starter Plugin
-![🔌Starter_Plugin](https://user-images.githubusercontent.com/12247382/168635713-966f5cd3-ccf7-4642-8cfc-c55603d338d6.png)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12247382/168635713-966f5cd3-ccf7-4642-8cfc-c55603d338d6.png" alt="Logo">
+</p>
 
 This is the basic structure of the plugin. Aims to provide the basic starter files. Instead of reinventing the wheel. Now you can focus on your solution.
 
