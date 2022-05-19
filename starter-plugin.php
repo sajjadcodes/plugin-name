@@ -60,7 +60,7 @@ register_deactivation_hook(__FILE__,'deactivation_starter_plugin');
  * Initialize all the core classes and register hooks
  */
 
-if ( class_exists('Init') ) {
+if ( class_exists('Inc\Init') ) {
 
     Init::getIncludes();
     Init::registerServices();
