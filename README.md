@@ -13,7 +13,7 @@ You can just download and put into your plugin folder and replace the folder and
 
 Install composer
 ```bash
-composer init
+composer dump-autoload
 ```
 
 ## Usage
